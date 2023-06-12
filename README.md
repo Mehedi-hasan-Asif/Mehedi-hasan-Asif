@@ -13,7 +13,7 @@ Skills: PYTHON / C/C++/JAVA/REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi-hasan-Asif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mehedi hasan Asif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedi_hasan_asif2/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi-hasan-Asif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100005580825933)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedi_hasan_asif2/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mehedi-hasan-Asif)](https://github.com/ryo-ma/github-profile-trophy)
 
