@@ -13,8 +13,10 @@ Skills: PYTHON / C/C++/JAVA/REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi-hasan-Asif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100005580825933)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedi_hasan_asif2/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005580825933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005580825933" height="30" width="40" /></a>
+<a href="https://instagram.com/(https://www.instagram.com/mehedi_hasan_asif2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="(https://www.instagram.com/mehedi_hasan_asif2/" height="30" width="40" /></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mehedi-hasan-Asif)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-hasan-Asif)](https://github.com/anuraghazra/github-readme-stats)
