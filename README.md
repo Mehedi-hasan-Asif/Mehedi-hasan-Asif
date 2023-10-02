@@ -5,14 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-asif&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-asif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-hasan-asif" alt="mehedi-hasan-asif" /></a> </p>
-
-- 🔭 I’m currently working on **Thesis paper(Face mask detection)**
+  -🔭 I’m currently working on **App Devlopment(Flutter)**
+ - 🔭 I’m currently working on **Thesis paper(Face mask detection)**
 
 - 🌱 I’m currently learning **Machine learning**
 
 - 👯 I’m looking to collaborate on **github**
 
-- 📫 How to reach me **mehedihasanasif2@gmail.com**
+- 📫 How to reach me **mehedihasanprog@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
