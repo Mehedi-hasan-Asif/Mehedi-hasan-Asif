@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-asif&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-asif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-hasan-asif" alt="mehedi-hasan-asif" /></a> </p>
-  -🔭 I’m currently working on **App Devlopment(Flutter)**/n
+ 
+  - 🔭 I’m currently working on **App Devlopment paper(Flutter)**
   
  - 🔭 I’m currently working on **Thesis paper(Face mask detection)**
 
